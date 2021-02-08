@@ -1,0 +1,17 @@
+
+
+.search_area{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#searchInput{
+    width: 30%;
+    height:auto;
+    padding:10px;
+}
+#searchBtn{
+    width: 10%;
+    padding:10px;
+    cursor: pointer;
+}
